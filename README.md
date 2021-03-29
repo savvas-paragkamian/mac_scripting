@@ -1,10 +1,10 @@
 # Mac scripting
 
-This repository contains scripts for the automation of macos and application tasks. Also it contains script for the initiation of new macs. The inspiration comes from Corey Schafer [dotfiles repository](https://github.com/CoreyMSchafer/dotfiles).
+This repository contains scripts for the automation of macos system functions, application tasks and new mac setup.
 
 ## Mac initiation
 
-Mac initiation is possible through HomeBrew. A bash script can help install the basic applications and programming tools. This is a semiautomatic process which is similar to container build files. I split the procedure in 2 distinct parts: applications and programming environment.
+Mac initiation is possible through HomeBrew. The inspiration comes from Corey Schafer [dotfiles repository](https://github.com/CoreyMSchafer/dotfiles). A bash script can help install the basic applications and programming tools. This is a semiautomatic process which is similar to container build files. I split the procedure in 2 distinct parts: applications and programming environment.
 
 ### Programming
 
@@ -21,11 +21,13 @@ Programming is diveded in 3 sections
 3. run the `brew` script
 
 
-### notes for apps
+### notes for apps installations
 djvu app is not in brew
 adobe bridge is not in brew
 dictionary for greek 
 affinity and pixelmator
 speedtest
 
+## Backup notes
 
+The script backups all my notes from the `Notes.app`. Greek fonts are not recognised.

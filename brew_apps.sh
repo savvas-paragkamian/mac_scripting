@@ -25,7 +25,3 @@ brew install handbrake
 #brew install 4k-video-to-mp3
 brew install vlc
 brew install zotero
-# adobe bridge is not in brew
-# dictionary for greek 
-# affinity and pixelmator
-# speedtest
