@@ -1,0 +1,75 @@
+total 0
+drwxr-xr-x@  3 savvas.p  admin   96 Feb  8  2018 4K Video Downloader.app
+drwxr-xr-x@  3 savvas.p  admin   96 Feb  8  2018 4K YouTube to MP3.app
+drwxrwxr-x@  9 root      admin  288 Apr 12  2020 Adobe Bridge 2020
+drwxr-xr-x@  5 root      admin  160 Apr 12  2020 Adobe Creative Cloud
+drwxr-xr-x@  3 root      wheel   96 Nov 13 14:26 Affinity Designer.app
+drwxr-xr-x@  3 root      wheel   96 Nov 13 15:16 Affinity Photo.app
+drwxr-xr-x@  3 root      wheel   96 Nov 14 16:46 Affinity Publisher.app
+lrwxr-xr-x   1 savvas.p  admin   46 Sep 20  2019 Anaconda-Navigator.app -> /Users/savasp/anaconda3/Anaconda-Navigator.app
+drwxr-xr-x@  3 savvas.p  admin   96 Nov 11 17:56 AnyDesk.app
+drwxr-xr-x@  3 502       wheel   96 Jan 21 03:12 Backup and Sync.app
+drwxr-xr-x@  3 root      wheel   96 Jan 10  2020 Battery Monitor.app
+drwxrwxr-x   3 savvas.p  staff   96 Nov 10 10:01 Cisco Webex Meetings.app
+drwxr-xr-x   3 root      wheel   96 Aug  6  2019 Converter-For-DJVU-File.app
+drwxr-xr-x   3 savvas.p  staff   96 Jan 28 09:57 Cyberduck.app
+drwxr-xr-x   4 savvas.p  admin  128 Aug 27  2019 Cytoscape_v3.4.0
+drwxr-xr-x@  3 savvas.p  admin   96 Apr  3  2019 DB Browser for SQLite.app
+drwxr-xr-x   3 savvas.p  staff   96 Jan 19 12:47 Discord.app
+drwxr-xr-x   3 root      wheel   96 Aug  6  2019 DjVu-Converter-Lite.app
+drwxr-xr-x   3 root      wheel   96 Aug  6  2019 DjVu2PDF.app
+drwxr-xr-x   3 savvas.p  admin   96 Feb  4 17:52 Docker.app
+drwxr-xr-x   3 savvas.p  admin   96 Feb  4 09:52 Dropbox.app
+drwxr-xr-x@  3 root      wheel   96 Nov 17 10:04 DuckDuckGo Privacy Essentials.app
+drwxr-xr-x@  3 savvas.p  staff   96 Dec 21 12:27 Firefox.app
+drwxr-xr-x   3 savvas.p  admin   96 Mar 31  2020 Folx.app
+drwxr-xr-x   3 savvas.p  staff   96 Apr 16  2018 GitHub Desktop.app
+drwxr-xr-x   3 savvas.p  staff   96 Oct 22 13:14 GoToMeeting.app
+drwxrwxr-x@  3 savvas.p  admin   96 Feb  4 07:26 Google Chrome.app
+lrwxr-xr-x   1 savvas.p  admin   33 Sep 23  2017 Google Drive.app -> /Applications/Backup and Sync.app
+drwxr-xr-x   3 root      wheel   96 Jan 22  2018 Graphic.app
+drwxr-xr-x   3 savvas.p  admin   96 Sep  2  2019 Greek Thesaurus.app
+drwxr-xr-x@  3 savvas.p  admin   96 Apr  9  2017 HandBrake.app
+drwxr-xr-x   3 root      wheel   96 Feb  4 11:15 Install macOS Big Sur.app
+drwxr-xr-x@  3 root      wheel   96 Jan 15 22:09 Keynote.app
+drwxr-xr-x@  3 savvas.p  admin   96 Feb 11  2020 Komodo IDE 12.app
+drwxr-xr-x   3 savvas.p  admin   96 Dec 30 11:50 MacVim.app
+drwxr-xr-x   3 savvas.p  staff   96 May 28  2020 Macs Fan Control.app
+drwxr-xr-x   3 savvas.p  staff   96 Oct 28 15:26 Mendeley Reference Manager.app
+drwxr-xr-x@  3 root      wheel   96 Dec 21 10:52 Messenger.app
+drwxr-xr-x   3 root      wheel   96 Sep 29 16:30 Microsoft Teams.app
+drwxr-xr-x@  3 root      wheel   96 Jan 16 21:31 Numbers.app
+drwxr-xr-x@  3 savvas.p  admin   96 Apr 27  2020 OBS.app
+drwxr-xr-x@  3 root      wheel   96 Jan 15 20:51 Pages.app
+drwxr-xr-x@  3 root      wheel   96 Jan 30 00:33 Pixelmator Pro.app
+drwxr-xr-x@  3 root      wheel   96 Dec  9 10:41 Pixelmator.app
+drwxrwxr-x   3 root      admin   96 Sep 30  2017 PopcornTime.app
+drwxr-xr-x@  3 savvas.p  staff   96 Mar 14  2019 Protégé.app
+drwxr-xr-x@ 10 root      wheel  320 Jun 11  2018 Python 3.6
+drwxr-xr-x@  3 savvas.p  admin   96 Oct 27 21:23 QGIS.app
+drwxrwxr-x   3 root      admin   96 Dec 28 17:10 R.app
+drwxrwxr-x   3 root      admin   96 Oct 23  2015 RICOH
+drwxr-xr-x@  3 savvas.p  admin   96 Sep 17 22:38 RStudio.app
+drwxr-xr-x@  3 root      wheel   96 Dec 15 15:32 Safari.app
+drwxr-xr-x  13 root      admin  416 Sep  5  2017 Scaffold 4
+drwxr-xr-x   3 savvas.p  staff   96 Jan 15 21:33 Skype.app
+drwxr-xr-x@  3 root      wheel   96 Jan 18 12:28 Slack.app
+drwxr-xr-x@  3 root      wheel   96 Jan 14 12:53 Speedtest.app
+drwxr-xr-x   3 savvas.p  admin   96 Dec 25 22:44 Stremio.app
+drwxrwxr-x  16 root      admin  512 Aug  4  2020 TeX
+drwxr-xr-x@  3 root      wheel   96 Jan 15 12:24 The Unarchiver.app
+drwxr-xr-x@  3 root      wheel   96 Jan 29 10:46 Twitter.app
+drwxr-xr-x  10 root      admin  320 Dec 15 15:43 Utilities
+drwxr-xr-x@  3 savvas.p  admin   96 Aug  9  2018 VLC Setup.app
+drwxr-xr-x   3 savvas.p  staff   96 Nov 23  2019 VLC.app
+drwxr-xr-x@  3 savvas.p  staff   96 Dec  6  2019 Vagrant Manager.app
+drwxr-xr-x   3 savvas.p  staff   96 Jan 21 14:42 Viber.app
+drwxr-xr-x@  3 root      wheel   96 Jan 28 08:58 Vimari.app
+drwxr-xr-x   3 root      admin   96 Oct 16 13:43 VirtualBox.app
+drwxr-xr-x   3 savvas.p  staff   96 Jul 21  2020 WhatsApp.app
+drwxr-xr-x@  3 savvas.p  admin   96 Feb 10 15:18 Zotero.app
+drwxr-xr-x@  3 savvas.p  admin   96 May  6  2020 balenaEtcher.app
+drwxr-xr-x@  3 root      wheel   96 Dec 15 14:40 iMovie.app
+drwxr-xr-x   3 savvas.p  staff   96 Nov 18 12:14 iStat Menus.app
+drwxr-xr-x   3 root      admin   96 Sep 14 13:53 owncloud.app
+drwxr-xr-x   3 savvas.p  wheel   96 Jan  7 16:38 zoom.us.app
