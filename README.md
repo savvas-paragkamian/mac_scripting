@@ -1,6 +1,6 @@
 # Mac scripting
 
-This repository contains scripts for the automation of macos and application tasks. Also it contains script for the initiation of new macs.
+This repository contains scripts for the automation of macos and application tasks. Also it contains script for the initiation of new macs. The inspiration comes from Corey Schafer [dotfiles repository](https://github.com/CoreyMSchafer/dotfiles).
 
 ## Mac initiation
 
@@ -12,7 +12,14 @@ Mac initiation is possible through HomeBrew. A bash script can help install the 
 2. git clone this repository
 3. run the `brew` script
 
+djvu app is not in brew
+adobe bridge is not in brew
+dictionary for greek 
+affinity and pixelmator
+speedtest
+
 ### Programming environment
+
 1. Set git
 * global credentials and tools
 * clone my dot files repositories
