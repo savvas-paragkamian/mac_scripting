@@ -24,14 +24,15 @@ git config --global difftool.prompt false
 brew install tmux
 brew install htop
 
-git clone https://github.com/savvas-paragkamian/.vim.git
+git clone --recurse-submodules -j8 https://github.com/savvas-paragkamian/.tmux.git
+git clone --recurse-submodules -j8 https://github.com/savvas-paragkamian/.vim.git
 git clone https://github.com/savvas-paragkamian/.dotfiles.git
-git clone https://github.com/savvas-paragkamian/.tmux.git
 
 # programming languages and packeges
 brew install r
 Rscript -e 'install.packages("tidyverse", repos="https://cloud.r-project.org")'
 
+brew install julia
 brew install python
 brew install postgresql
 brew install perl
