@@ -30,7 +30,7 @@ git clone https://github.com/savvas-paragkamian/.dotfiles.git
 
 # programming languages and packeges
 brew install r
-Rscript -e 'install.packages("tidyverse", repos="https://cloud.r-project.org")'
+Rscript -e 'install.packages(c("tidyverse","igraph","vegan"), repos="https://cloud.r-project.org")'
 
 brew install julia
 brew install python
@@ -50,5 +50,35 @@ brew install tesseract
 brew install jq
 brew install imagemagick
 
+# spatial libraries
+brew install proj
+brew install gdal
+brew install geos
+
 # install the apps
-./brew_apps.sh
+
+# General MacOS Applications
+brew install google-chrome
+brew install dropbox
+brew install google-backup-and-sync
+
+# communication
+brew install skype
+brew install discord
+brew install slack
+brew install messenger
+
+# Programming applications
+brew install cyberduck
+brew install istat-menus
+brew install protege
+brew install qgis
+brew install rstudio
+
+# Personal applications
+brew install handbrake
+#brew install 4k-youtube-to-mp3
+#brew install 4k-video-downloader
+#brew install 4k-video-to-mp3
+brew install vlc
+brew install zotero
