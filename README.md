@@ -31,3 +31,7 @@ speedtest
 ## Backup notes
 
 The script backups all my notes from the `Notes.app`. Greek fonts are not recognised.
+
+## Preview export filters
+
+Move the the files of folder preview_filters_export to /System/Library/PDF\ Services. Then these options are available in export -> quartz filter. 
