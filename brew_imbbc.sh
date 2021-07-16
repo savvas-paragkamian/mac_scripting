@@ -36,6 +36,7 @@ brew install --cask adobe-acrobat-reader
 brew install handbrake
 brew install vlc
 brew install --cask microsoft-remote-desktop
+brew install --cask tunnelblick
 brew install --cask the-unarchiver
 brew install --cask google-earth-pro
 
