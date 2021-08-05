@@ -63,6 +63,7 @@ brew install geos
 brew install google-chrome
 brew install dropbox
 brew install google-backup-and-sync
+brew install --cask owncloud
 
 # communication
 brew install skype
