@@ -41,7 +41,7 @@ brew install perl
 brew install gawk
 
 ## latex - basic tex
-brew install --cask basictex
+brew install --cask mactex
 
 ## fix path for basictex
 export PATH=$PATH:/Library/TeX/texbin
