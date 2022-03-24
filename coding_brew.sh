@@ -47,6 +47,7 @@ brew install --cask mactex
 export PATH=$PATH:/Library/TeX/texbin
 
 # utilities
+brew install ffmpeg
 brew install wget
 brew install pandoc
 brew install tesseract
