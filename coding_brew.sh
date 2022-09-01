@@ -58,7 +58,7 @@ brew install imagemagick
 brew install proj
 brew install gdal
 brew install geos
-
+brew install udunits
 # install the apps
 
 # General MacOS Applications
