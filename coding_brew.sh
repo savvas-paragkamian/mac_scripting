@@ -62,9 +62,8 @@ brew install udunits
 # install the apps
 
 # General MacOS Applications
-brew install google-chrome
+brew install --cask vivaldi
 brew install dropbox
-brew install google-backup-and-sync
 brew install --cask owncloud
 
 # communication
@@ -87,3 +86,4 @@ brew install handbrake
 #brew install 4k-video-to-mp3
 brew install vlc
 brew install zotero
+brew install --cask darktable
