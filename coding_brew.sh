@@ -53,6 +53,7 @@ brew install pandoc
 brew install tesseract
 brew install jq
 brew install imagemagick
+brew install pdfgrep
 
 # spatial libraries
 brew install proj
